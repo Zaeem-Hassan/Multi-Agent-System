@@ -20,7 +20,7 @@ Built using **SerpAPI**, **BeautifulSoup**, **Groq LLM**, and **Streamlit**, thi
 ---
 
 ## 🧠 Multi-Agent Workflow
-
+```bash
 User Query
 ↓
 🌐 Browser Agent (SerpAPI)
@@ -34,7 +34,7 @@ User Query
 📝 Summarizer Agent (Groq LLM)
 → Creates structured, short, clean summary
 → Generates final report
-
+```
 ---
 
 ## 🛠 Tech Stack
