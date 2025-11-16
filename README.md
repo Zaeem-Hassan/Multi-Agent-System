@@ -1,6 +1,5 @@
 # 🤖 Multi-Agent System — Automated Research & Summarization Pipeline  
-
-<img width="1536" height="1024" alt="thumbnail" src="(add-your-thumbnail-image-url-here)" />
+<img src="ChatGPT Image Nov 16, 2025, 06_02_28 PM.png"  width="1536" height="1024">
 
 This is an **AI-powered Multi-Agent System** that takes a user query, searches the web, extracts useful information, summarizes it using an LLM, and returns a clean structured report — with PDF download support.
 
